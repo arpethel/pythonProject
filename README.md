@@ -43,7 +43,7 @@ For production settings, consider using more advanced techniques for managing en
 ## Usage
 Run the script:
 ```bash
-python program.py
+python main.py
 ```
 Note: You may need to use `python3`, depending on what version of Python you have installed.
 
