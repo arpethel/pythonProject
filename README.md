@@ -13,6 +13,7 @@ Then, install the necessary Python packages:
 ```bash
 pip install openai
 pip install SpeechRecognition
+pip install pillow
 ```
 Note: You may need to use `pip3`, depending on what version of Python you have installed.
 
