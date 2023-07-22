@@ -1,4 +1,4 @@
-**Privacy Policy for Speech-to-Text Application**
+**Privacy Policy for pythonProject - A Speech to Text Application**
 
 This privacy policy ("Policy") describes how our Speech-to-Text Application ("Application", "we", "our", or "us") processes, collects, uses and shares personal data when using this Application. Please read the following information carefully to understand our practices regarding your personal data and how we will process data.
 
